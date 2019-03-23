@@ -12,4 +12,4 @@ github_username:  your-githubii-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minima:
+theme:minima
